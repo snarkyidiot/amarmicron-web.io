@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow:
+
+Sitemap: https://amarmicron.in/sitemap.xml

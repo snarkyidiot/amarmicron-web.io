@@ -1,0 +1,325 @@
+@media only screen and (min-width: 1407px){.container {max-width: 1375px;}	}
+@media (min-width:1580px) and (max-width:1811px){
+	.slider-bar .carousel-caption .shpe-top::before,.slider-bar .carousel-caption .shpe-top::after {left: 10%;}
+	.slider-bar .carousel-caption .shpe-bottom::after,.slider-bar .carousel-caption .shpe-bottom::before  {right: 10%;}	
+	.experiences:before {max-width: 293px;left: -156px;background-size: 100%;}
+	.why:before {max-width: 640px;}
+}
+@media (min-width:1407px) and (max-width:1579px){
+	.experiences:before {max-width: 234px;left: -146px;background-size: 100%;}
+	.why:before {max-width: 550px;}
+	.slider-bar .carousel-caption .shpe-top::before,.slider-bar .carousel-caption .shpe-top::after {left: 7%;}
+	.slider-bar .carousel-caption .shpe-bottom::after,.slider-bar .carousel-caption .shpe-bottom::before  {right: 7%;}	
+	.up {padding: 22px 95px;}
+}
+@media only screen and (max-width:1406px){
+	.slider-bar .carousel-caption .shpe-top::before,.slider-bar .carousel-caption .shpe-top::after{left: 5%;}
+	.slider-bar .carousel-caption .shpe-bottom::after,.slider-bar .carousel-caption .shpe-bottom::before  {right: 5%;}	
+	.experiences:before {max-width: 188px;left: -111px;background-size: 100%;}
+	.why::before {max-width: 515px;}
+	.up {padding: 22px 60px;}
+}
+@media only screen and (max-width:1366px){
+	.experiences:before {max-width: 285px;left: -154px;background-size: 100%;}
+	.experiences .experiences-part h3 {font-size: 28px;}
+	.experiences .experiences-part p {white-space: normal; text-align: justify;}
+	.Products-head .product-title h4 {font-size: 44px;}
+	.Products-head  .product-content p {white-space: normal;}
+	.button-submit {margin-left: 11%;}
+}
+@media (min-width:1200px) and (max-width:1365px) {
+	.slider-bar .carousel-caption .shpe-bottom::before,.slider-bar .carousel-caption .shpe-bottom::after  {right: 0;}
+	.slider-bar .carousel-caption .shpe-top::after,.slider-bar .carousel-caption .shpe-top::before  {left: 0;}
+	.experiences:before {max-width: 225px;left: -142px;background-size: 100%;}
+	.up,.page-write  {padding: 22px 55px;}
+	.why::before {max-width: 494px;}	
+}
+@media only screen and (max-width:1199px){
+	.slider-bar .carousel-caption {top: 33%;}
+	.slider-bar .carousel-caption .shpe-top::after {left: 0;top: -44px;}
+	.slider-bar .carousel-caption .shpe-top::before {left: 0;bottom: 44px;}
+	.slider-bar .carousel-caption .shpe-bottom::before {right: 0;bottom: 0;}
+	.slider-bar .carousel-caption .shpe-bottom::after {right: 0;bottom: 20px;}
+	.micron-img {margin-top: 32px;}
+	.experiences .experiences-part h3 {font-size: 23px;line-height: 25px ;}
+	.experiences .experiences-part p{font-size: 16px;}
+	.experiences::before {max-width: 246px;height: 224px;left: -103px;background-size: 100%;}
+	.why::before {max-width: 479px;}
+	.why-counter .counter-box {width: 226px;}
+	.Products-head .product-content p {white-space: normal;}
+	ul.number {padding-left: 0;}
+	.page-write {padding: 22px 55px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 50px;top: 50px;}
+	.carbonate-applications {margin-left: 24px;}
+	.features-content ul, .advantages-content ul {flex-direction: column;}
+	.button-submit {margin-left: 24%;}
+	.contact-form  button.submit {margin-left: 15%;}
+}
+@media (min-width:992px) and (max-width:1165px){
+	#carousel1 {font-size: 25px;}
+	.experiences::before {max-width: 177px;}
+	.experiences .experiences-part h3 {font-size: 23px;line-height: 25px;}
+	.why::before {max-width: 450pxpx;}
+	.up ,.page-write  {padding: 22px 18px;}
+	.h1-carousel {font-size: 45px;}
+}
+@media only screen and (max-width:991px){
+	.navbar a.nav-link::before {width: 9%;height: 2px;bottom: 0;left: 0px;}
+	.navbar.navbar-light li.nav-item {padding: 0px 5px 0px 5px;}
+	.slider-bar .carousel-caption {top: 25%;}
+	#carousel1 {font-size: 25px;}
+	.h1-carousel {font-size: 45px;}
+	.welcome .welcome-part .micron-img {margin-top: 46px;}
+	.welcome .welcome-part .micron-img .bg-imgpart {top: 93px;left: 100px;}
+	.amar-part {padding: 0px 32px 0px 32px;}
+	.amar-part .amar {text-align: center;}
+	.experiences .experiences-part h3 {font-size: 26px;}
+	.experiences .experiences-part {padding: 0px 20px;position: relative;z-index: 1;}
+	.experiences::before {max-width: 242px;height: 140px;background-size: 100% 100%;}
+	.why-chose .why-part {padding: 0px 32px 0px 32px;}
+	.why::before {max-width: 100%;top: 45%;height: 56%;}
+	.why-counter {padding-top: 50px;}
+	.why-counter .counter-box {width: auto;}
+	.product-title {padding: 0px 32px 0px 32px;border-right: none;}
+	.product-content{padding: 0px 32px 0px 32px;}
+	.Products-head .product-content p {text-align: justify;}
+	.range-content {padding: 30px 0px 0px 0px;}
+	.range-content h5 {font-size: 21px;}
+	.up ul {justify-content: center; padding-left: 0;}
+	ul.note {justify-content: center;padding-left: 0;}
+	.amar-icon {margin-bottom: 21px;}
+	.footer-left {text-align: center;}
+	.footer-right {text-align: center;}
+	.quality-img {text-align: center;margin-bottom: 18px;}
+	.comapny-main {margin-bottom: 18%;}
+	.front-img {top: 105px;left: 90px;}
+	.Calcium-img{text-align: center;}
+	.carbonate-applications {margin-left: 0;}
+	.inquiry-button {text-align: center;margin-top: 18px;}
+	.Calcium-Carbonate .Calcium-img {position: relative;margin-bottom: 45px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 134px;top: 47px;width: 72%;height: 97%;}
+	.inquiry-main {padding: 60px 110px 60px;}
+	.button-submit {margin-left: 0;}
+	.contact-form  button.submit {margin-left: 0;}
+}
+@media (min-width:769px) and (max-width:940px){
+	.slider-bar .carousel-caption .shpe-bottom::before,.slider-bar .carousel-caption .shpe-bottom::after{right: -30px;}
+	.slider-bar .carousel-caption .shpe-top::before,.slider-bar .carousel-caption .shpe-top::after {left: -30px;}
+	#carousel1 {font-size: 22px;}
+	.h1-carousel {font-size: 40px;}
+	.experiences::before {max-width: 195px;}
+	.experiences .experiences-part h3 {font-size: 25px;line-height: 20px;}	
+}
+@media only screen and (max-width:768px){
+	.h1-carousel {font-size: 35px;}
+	#carousel1 {font-size: 20px;}
+	.experiences::before {max-width: 170px;}
+	.experiences .experiences-part h3 {font-size: 24px;line-height: 25px;}
+	.infrastructure-main,.expertise {padding: 0px 55px 0px 55px;}
+}
+@media only screen and (max-width:767px){
+	.header-top span {display: none;}
+	.slider-bar .caption-bottom {bottom: 5vh;}
+	.h1-carousel {font-size: 35px;}
+	#carousel1 {font-size: 20px;}
+	.slider-bar .carousel-caption .shpe-top::before {left: -4px;width: 100px;}
+	.slider-bar .carousel-caption .shpe-top::after {left: -4px;height: 100px;}
+	.slider-bar .carousel-caption .shpe-bottom::after {height: 100px;right: -4px;}
+	.slider-bar .carousel-caption .shpe-bottom::before {width: 100px;right: -4px;}
+	.welcome .welcome-part .micron-img {margin-bottom: 21px;}
+	.amar-part .amar {text-align: center;}
+	.welcome .welcome-part .micron-img .bg-imgpart {top: 93px;left: 0;}
+	.experiences::before {height: 140px;}
+	.experiences .experiences-button {margin-top: 16px;}
+	.why-chose .why-part {margin-bottom: 25px;}
+	.why-counter .counter-box {margin-left: 0;}
+	.range-content h5 {font-size: 20px;font-weight: 500;line-height: 21px;}
+	.product:before {height: 395px;}
+	.range-content {padding: 50px 30px 35px 30px;}
+	.contact-img .contact-b1 {margin-bottom: 77px;}
+	.front-img {top: 72px;left: 30px;}
+	.infrastructure-main,.expertise {padding: 0px 0px 0px 0px;}
+	.inquiry-main {padding: 60px 60px 60px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 68px;top: 73px;width: 92%;height: 92%;}
+	.thank-sub h1 {font-size: 77px;}
+}
+@media (min-width:576px) and (max-width:715px){
+	.slider-bar .carousel-caption {top: 25%;}
+	#carousel1 {font-size: 16px;}
+	.h1-carousel {font-size: 28px;}
+}
+@media only screen and (max-width:575px){
+	.slider-bar .carousel-caption {top: 18%;}
+	#carousel1 {font-size: 16px;}
+	.slider-bar .caption-bottom {bottom: 5vh;}
+	.h1-carousel {font-size: 30px;}
+	.slider-bar .carousel-caption .shpe-top::before {left: -37px;bottom: 25px;}
+	.slider-bar .carousel-caption .shpe-top::after {left: -37px;top: -25px;}
+	.slider-bar .carousel-caption .shpe-bottom::before,.slider-bar .carousel-caption .shpe-bottom::after  {right: -37px;}
+	.slider-bar .carousel-indicators [data-bs-target] {width: 15px;height: 22px;padding: 5px;}
+	.amar-part .amar-head h2 {font-size: 40px;}
+	.amar-part {padding: 0px 73px 0px 73px;}
+	.experiences::before {max-width: 181px;height: 140px;}
+	.experiences .experiences-part h3 {font-size: 30px; line-height: 35px;}
+	.experiences .experiences-button {margin-left: 30%;}
+	.welcome .welcome-part .micron-img .bg-imgpart {top: 93px;left: 30px;}
+	.why::before {top: 38%;height: 63%;}
+	.why-chose .why-part {padding: 0px 73px 0px 73px;}
+	.why-part .why-head h2 {font-size: 40px;}
+	.product-title {padding: 25px 66px 0px 73px;}
+	.product-content {padding: 0px 66px 6px 73px;}
+	.Products-head .product-title h4 {font-size: 40px;line-height: 30px;}
+	.industry-head {padding: 0 80px;}
+	.industry .industry-head h4 {font-size: 40px;}
+	.industry-slider {padding: 0;}
+	ul.number {display: flex;flex-direction: column;padding-left: 6px;}
+	.company-head h5 {font-size: 40px;}
+	.front-img {top: 64px;left: 64px;}
+	.infrastructure-main,.expertise {padding: 0px 55px 0px 55px;}
+	.infrastructure-head h5, .expertise-head h5 {font-size: 35px;}
+	.company-head h5::before {width: 50px;}
+	.infrastructure-head h5::before, .expertise-head h5::before {width: 50px;}
+	.aplication-head{padding: 25px 66px 0px 73px;}
+	.aplication-head h6 {font-size: 28px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 68px;top: 73px;width: 88%;height: 91%;}
+	.assurance .quality-main .quality-head h3 {font-size: 40px;}
+	.inquiry-head h2:before {width: 56px;}
+	.thank-sub h1 {font-size: 57px;}
+}
+@media (min-width:481px) and (max-width:570px){
+	#carousel1 {font-size: 13px;}
+	.h1-carousel {font-size: 24px;}
+	.experiences .experiences-part h3 {font-size: 25px;}
+	.welcome .welcome-part .micron-img .bg-imgpart {top: 70px;}
+	.up,.page-write {padding: 22px 25px;}
+}
+@media only screen and (max-width:480px){
+	a.navbar-brand.aos-init.aos-animate {max-width: 50%;}
+	a.navbar-brand.aos-init.aos-animate img {object-fit: contain;max-width: 100%;}
+	.header-top li {padding-left: 12px;}
+	.slider-bar .caption-bottom {bottom: 6vh;}
+	#carousel1 {font-size: 14px;}
+	.h1-carousel {font-size: 25px;}
+	.slider-bar .carousel-caption .shpe-top::after {height: 66px;}
+	.slider-bar .carousel-caption .shpe-top::before {width: 86px;}
+	.slider-bar .carousel-caption .shpe-bottom::before {bottom: 11px;width: 86px;}
+	.slider-bar .carousel-caption .shpe-bottom::after {bottom: 31px;height: 66px;}
+	.slider-bar .carousel-indicators {bottom: -13px;}
+	.amar-part {padding: 0px 47px 0px 47px;}
+	.amar-part .amar-head h6 {margin-bottom: 0;}
+	.amar-part .amar-head h6::before {width: 46px;}
+	.welcome .welcome-part .micron-img .bg-imgpart {top: 53px;left: 30px;}
+	.experiences::before {max-width: 170px;}
+	.experiences {padding: 36px;}
+	.experiences .experiences-part h3 {font-size: 26px;line-height: 31px;}
+	.experiences .experiences-part p {white-space: normal;line-height: 22px}
+	.why-part .why-head h6::before {width: 46px;}
+	.why-chose .why-part {padding: 0px 47px 0px 47px;}
+	.Products-head .product-title h6::before {width: 46px;}
+	.product-title {padding: 0px 47px 0px 47px;border-right: none;}
+	.product-content {padding: 0px 0px 0px 10%;}
+	.industry-slider i {padding: 6px 16px;font-size: 16px;}
+	.industry-slider button.owl-prev {top: -103px;right: 84px;}
+	.industry-slider button.owl-next {top: -103px;right: 25px;}
+	.industry .industry-head h6::before {width: 56px;}
+	.industry-head {padding: 25px 66px 0px 47px;}
+	.industry .industry-head h4 {font-size: 45px;font-weight: 500;line-height: 54px;}
+	.industry .industry-head h6::before {width: 46px;position: absolute;height: 3px;top: 9px;}
+	ul.number li {display: block ruby;}
+	.page-write,.up{padding: 22px 0px;}
+	.front-img {top: 50px;left: 31px;}
+	.infrastructure-head h5, .expertise-head h5 {font-size: 30px;font-weight: 500;position: relative;}
+	.header1-img .header-head h1 {font-size: 30px;margin-bottom: 0;}
+	.header1-img .header-head ul li a {font-size: 17px;}
+	.contact-box .contact-social .social-title h5,.contact-form .contact-head h4  {font-size: 30px;}
+	.inquiry-content h3 {font-size: 19px;}
+	.aplication-head h6::before {top: 17px;width: 45px;}
+	.aplication-head {padding: 25px 47px 0px 47px;}
+	.Calcium-Carbonate .Calcium-img img {width: 92%;}
+	.Calcium-Carbonate .Calcium-img:before {left: 68px;top: 73px;width: 86%;height: 89%;}
+	.inquiry-main {padding: 60px 20px 60px;}
+	.inquiry-head h2 {font-size: 25px;}
+	.inquiry-head h2:before {top: 15px;}
+	.thank-sub h1 {font-size: 45px;}
+	.thank-sub p {font-size: 16px;}
+	#myBtn1 {right: 12px;}
+	a.whats-up {width: 70px;}
+}
+@media (min-width:361px) and (max-width:475px){
+	.slider-bar .carousel-indicators [data-bs-target] {display: none;}
+	.slider-bar .carousel-caption {top: 11%;}
+	.slider-bar .carousel-caption .shpe-top::before {left: -37px;bottom: 5px;height: 10px;}
+	.slider-bar .carousel-caption .shpe-top::after {left: -37px;top: -5px;width: 10px;}
+	.slider-bar .carousel-caption .shpe-bottom::before {bottom: 15px;width: 86px;height: 10px;}
+	.slider-bar .carousel-caption .shpe-bottom::after {bottom: 25px;height: 66px;width: 10px;}
+	#carousel1 {font-size: 10px;}
+	.h1-carousel {font-size: 20px;}
+	.welcome .welcome-part .micron-img .bg-imgpart,.front-img  {top: 38px;left: 0;}
+	.amar-part .amar-head h2 {font-size: 34px;}
+	.Products-head .product-title h4 {font-size: 34px;}
+	.why-part .why-head h2 {font-size: 34px;}
+	.why::before {top: 37%;height: 62%;}
+	.why-counter {padding-top: 0px;}
+	.why-part .why-head ul li {font-size: 15px;}
+	.product-content {padding: 0px 47px 0px 47px;}
+	.industry .industry-head h4 {font-size: 34px;}
+	.experiences .experiences-part h3 {font-size: 19px;line-height: 27px;}
+	ul.number a,ul.note-icon a {font-size: 30px;}
+	.industry-head {padding: 25px 66px 9px 47px;}
+	.header1-img .header-head h1 {font-size: 26px;}
+	.header1-img .header-head ul li a {font-size: 14px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 53px;top: 55px;}
+	.infrastructure-head h5, .expertise-head h5 {font-size: 22px;}
+	.infrastructure-head h5:before, .expertise-head h5:before {top: 11px;}
+	.infrastructure-content p, .expertise-content p {line-break: anywhere;}
+}
+@media only screen and (max-width:380px){
+	.h1-carousel {font-size: 19px;}
+	.amar-part .amar-head h2 {font-size: 32px;}
+	.Products-head .product-title h4 {font-size: 38px;}
+	ul.number a, ul.note-icon a {font-size: 30px;}
+	.assurance .quality-main .quality-head h3 {font-size: 34px;}
+	.experiences::before {max-width: 162px;}
+	.contact-box .contact-social .social-title h5, .contact-form .contact-head h4{font-size: 25px;}
+	.front-img {top: 33px;left: 8px;}
+}
+@media only screen and (max-width:378px){
+	.slider-bar .carousel-indicators [data-bs-target] {display: none;}
+	.h1-carousel {font-size: 19px;}
+	.slider-bar .caption-bottom {bottom: 56px;}
+	ul.number a, ul.note-icon a {font-size: 30px;}
+}
+@media only screen and (max-width:360px){
+	.slider-bar .carousel-caption {top: 11%;}
+	.slider-bar .carousel-caption .shpe-top::before {left: -37px;bottom: 5px;height: 10px;}
+	.slider-bar .carousel-caption .shpe-top::after {left: -37px;top: -5px;width: 10px;}
+	.slider-bar .carousel-caption .shpe-bottom::before {bottom: 15px;width: 86px;height: 10px;}
+	.slider-bar .carousel-caption .shpe-bottom::after {bottom: 25px;height: 66px;width: 10px;}
+	#carousel1 {font-size: 10px;}
+	.h1-carousel {font-size: 18px;}
+	.amar-part {padding: 0px 25px 0px 25px;}
+	.amar-part .amar-head h2 {font-size: 37px;}
+	.experiences {padding: 25px;}
+	.experiences .experiences-part h3 {font-size: 19px;}
+	.experiences .experiences-button {margin-left: 20%;}
+	.why-chose .why-part {padding: 0px 25px 0px 25px;}
+	.welcome .welcome-part .micron-img .bg-imgpart,.front-img  {top: 37px;left: 0;}
+	.product-title {padding: 25px 25px 0px 25px;border-right: none;}
+	.product-content {padding: 0px 25px 0px 25px;}
+	.range-content h5 {font-size: 16px;}
+	ul.number a,ul.note-icon a {font-size: 28px;}
+	.header1-img .header-head h1 {font-size: 26px;}
+	.header1-img .header-head ul li a {font-size: 14px;}
+	.infrastructure-main, .expertise {padding: 0px 30px 0px 30px;}
+	.infrastructure-head h5, .expertise-head h5 {font-size: 24px;}
+	.infrastructure-head h5::before, .expertise-head h5::before {width: 40px;top: 14px;}
+	.Calcium-Carbonate .Calcium-img:before {left: 45px;top: 40px;width: 88%;height: 94%;}
+	.applications-head h6::before {width: 35px;}
+	.applications-head h6::before {top: 18px;}
+	.Calcium-content h4 {font-size: 30px;}
+	.applications-head h6 {font-size: 17px;}
+	.applications-head h6::before {top: 8px;}
+	.features-content ul li{font-size: 15px;}	
+}
+@media only screen and (max-width:359px){.amar-part .amar-head h2 {font-size: 36px;}}
+@media only screen and (max-width:333px){a.navbar-brand {margin-right: 0;}}
